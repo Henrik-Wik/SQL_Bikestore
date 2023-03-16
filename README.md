@@ -1,4 +1,4 @@
-# SQL Project using MS Bikestores sample data.
+# SQL Project using MS Bikestores sample data. (WIP)
 
 ## Overview:
 
@@ -16,5 +16,7 @@
 * Filter by year and month
 * Section for customer analysis
 * Section for staff analysis
+
+## Results:
 
 ![image](https://user-images.githubusercontent.com/126109206/225725193-a23198d2-2449-4137-864b-479cb692e767.png)
