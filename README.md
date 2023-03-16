@@ -1,4 +1,4 @@
-# SQL Project using MS Bikestores sample data. (WIP)
+# SQL Project using MS bike stores sample data. (WIP)
 
 ## Overview:
 
